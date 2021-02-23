@@ -1,0 +1,12 @@
+uy\com\cb\domain\Domicilio.class
+uy\com\cb\domain\Curso.class
+uy\com\cb\domain\Contacto.class
+uy\com\cb\dao\ContactoDAO.class
+uy\com\cb\test\TestDAOs.class
+uy\com\cb\dao\AlumnoDAO.class
+uy\com\cb\domain\Asignacion.class
+uy\com\cb\dao\GenericDAO.class
+uy\com\cb\dao\DomicilioDAO.class
+uy\com\cb\dao\CursoDAO.class
+uy\com\cb\domain\Alumno.class
+uy\com\cb\dao\AsignacionDAO.class
